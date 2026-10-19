@@ -1,5 +1,6 @@
 *.ipynb_checkpoints
 .venv/
+.idea
 lab4/hotdog
 lab4/data
 lab4/toothbrushes.jpg
